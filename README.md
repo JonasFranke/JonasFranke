@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java and web dev
 - 🌱 I’m currently learning javascript
 - 📫 How to reach me:
-E-Mail: coming soon
+[E-Mail](mailto:mail@jonasfranke.tech)
 Discord: coming soon
 
 <!---
